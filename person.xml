@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <age>25</age>
+    <hobbies>
+        <element>play games</element>
+        <element>play sports</element>
+    </hobbies>
+    <kids>
+        <person>
+            <age>8</age>
+            <name>Julie</name>
+        </person>
+        <person>
+            <age>12</age>
+            <name>Jonathan</name>
+        </person>
+    </kids>
+    <isMarried>true</isMarried>
+    <name>John Klay</name>
+</person>
